@@ -11,7 +11,7 @@ export function Table(){
             </div>
             <div>
                 {data.map(x=>(
-                    <div className="flex justify-between p-4">
+                    <div key={x.orderID} className="flex justify-between p-4">
                         <div>{x.orderID}</div>
                         <div>{x.status}</div>
                         <div>{x.tranactionID}</div>
