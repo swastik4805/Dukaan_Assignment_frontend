@@ -5,6 +5,7 @@ import { MainRevenueCard } from './coomponents/MainRevenueCard'
 import { Appbar } from './coomponents/Appbar'
 import { ButtonPair } from './coomponents/ButtonPair'
 import { SecondSearch } from './coomponents/SecondSearch'
+import { Table } from './coomponents/Table'
 
 function App() {
 
@@ -49,6 +50,8 @@ function App() {
       <ButtonPair></ButtonPair>
 
       <SecondSearch></SecondSearch>
+
+      <Table></Table>
       
     </>
   ) 
