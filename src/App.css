@@ -1,0 +1,46 @@
+/* Search features, tutorials, etc. */
+
+width: 218px;
+height: 22px;
+
+/* Body 1/Regular */
+font-family: 'Galano Grotesque';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+/* identical to box height, or 147% */
+
+/* Black/50 */
+color: #808080;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+
+
+/* Dashboard */
+
+width: 81px;
+height: 28px;
+
+/* Heading/H5 */
+font-family: 'Galano Grotesque';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+
+/* Black/12 */
+color: #1A181E;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
