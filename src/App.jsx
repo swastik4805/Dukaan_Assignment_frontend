@@ -19,7 +19,7 @@ function App() {
         </svg>
       </div>
 
-      <div className='grid grid-cols-3'>
+      <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
         <MainRevenueCard title={"Next Payout  ?"}
           amount={"Rs. 2,313.23"}
           orderCount={"13 order(s)"}

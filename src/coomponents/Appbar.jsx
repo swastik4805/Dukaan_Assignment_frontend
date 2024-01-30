@@ -60,7 +60,7 @@ export function Appbar(){
 
 
             <div className="flex pr-6 pt-1">
-                <div className="">
+                <div className="pr-2">
                     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g clip-path="url(#clip0_107820_55317)">
                     <circle cx="20" cy="20" r="20" fill="#E6E6E6"/>
